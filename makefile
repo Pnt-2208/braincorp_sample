@@ -26,8 +26,8 @@ C-SRC+=\
    test.c
 
 TEXT-SRC=\
-   README\
-   problem_statement.txt
+   README.md\
+   LICENSE
 
 MAKEFILE=makefile
 #==============================================================================

@@ -1,3 +1,32 @@
+#==============================================================================
+# FILE: README
+#
+# DESCRIPTION:
+# Instructions for brain corp code sample
+#
+#==============================================================================
+
+Install
+================
+tar -xvzf <package>
+
+Build
+===============
+make
+
+Run Tests
+===============
+make check
+
+
+File Summary
+=============
+README.md - this file
+makefile - make file to build and run tests
+test.c - test code that contains code sample function
+
+Problem Statement
+====================
 From: Teresa Allen <comm_20170204004555_UIR8STMRBYBUGD6I@dropbox.jazz.co>
 To: Brooke Wallace <brookbot@yahoo.com>
 Sent: Friday, February 3, 2017, 4:45:57 PM PST
