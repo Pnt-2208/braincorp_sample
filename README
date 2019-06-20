@@ -1,0 +1,25 @@
+#==============================================================================
+# FILE: README
+#
+# DESCRIPTION:
+# Instructions for brain corp code sample
+#
+#==============================================================================
+
+Install
+================
+tar -xvzf <package>
+
+Build
+===============
+make
+
+Run Tests
+===============
+make check
+
+
+File Summary
+=============
+makefile - make file to build and run tests
+test.c - test code that contains code sample function
